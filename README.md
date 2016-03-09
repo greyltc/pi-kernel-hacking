@@ -1,5 +1,5 @@
 # pi-kernel-hacking
-Arch Linux PKGBUILDs for Raspberry Pi 2&amp;3
+Arch Linux PKGBUILDs for Raspberry Pi 2&amp;3 kernels
 
 ### Branches here
 1. pi2-default
